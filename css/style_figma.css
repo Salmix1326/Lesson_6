@@ -37,7 +37,7 @@
 }
 
 .main-title {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 400;
    font-size: 65px;
@@ -53,7 +53,7 @@
 }
 
 .text p {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 400;
    font-size: 20px;
@@ -70,7 +70,7 @@
 }
 
 .about-title {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 700;
    font-size: 34px;
@@ -80,7 +80,7 @@
 }
 
 .about-text {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 400;
    font-size: 18px;
@@ -97,7 +97,7 @@
 }
 
 .author-name {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 700;
    font-size: 18px;
@@ -107,7 +107,7 @@
 }
 
 .author-prof {
-   font-family: 'Circular Std', Arial, Helvetica, sans-serif;
+   font-family: "CircularStd", Arial, Helvetica, sans-serif;
    font-style: normal;
    font-weight: 400;
    font-size: 18px;
